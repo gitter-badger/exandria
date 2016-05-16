@@ -3,6 +3,8 @@ Exandria is a decentralized file sharing system that includes search.
 Getting started
 ===============
 
+[![Join the chat at https://gitter.im/jordanlewis/exandria](https://badges.gitter.im/jordanlewis/exandria.svg)](https://gitter.im/jordanlewis/exandria?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 First, clone this repo and run `npm install`.
 
 If you want to see [debug](https://github.com/visionmedia/debug) logs, set the env var `DEBUG` to `*`.
